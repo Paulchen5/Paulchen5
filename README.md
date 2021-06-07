@@ -29,3 +29,8 @@ List
 ### Programms
 ![Visual Studio Code](https://img.shields.io/badge/-VSC-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=FFF)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=FFF)
+
+### Links
++ [GitHub](https://github.com/Paulchen5)
++ [SoloLearn](https://www.sololearn.com/profile/17745677)
++ [Spotify](https://open.spotify.com/user/jdmh24118a6bn9tncxiuqo0jn?si=b9ce98f30ac24bcc)
