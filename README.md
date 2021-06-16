@@ -11,6 +11,9 @@
 ![Java](https://img.shields.io/badge/-Java-FFAA00?style=for-the-badge&logo=java&logoColor=FFF)
 ![HTML5](https://img.shields.io/badge/-HTML5-F06429?style=for-the-badge&logo=html5&logoColor=FFF)
 ![CSS3](https://img.shields.io/badge/-CSS3-29A9DF?style=for-the-badge&logo=css3&logoColor=FFF)
+![JavaScript](https://img.shields.io/badge/-JS-F7E018?style=for-the-badge&logo=javascript&logoColor=FFF)
+![JSON](https://img.shields.io/badge/-JSON-525252?style=for-the-badge&logo=json&logoColor=FFF)
+
 
 ### Programms
 ![Visual Studio Code](https://img.shields.io/badge/-VSC-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=FFF)
