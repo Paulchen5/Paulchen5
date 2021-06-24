@@ -9,10 +9,10 @@
 ### Skills
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=FFF)](https://www.python.org/downloads/)
 ![Java](https://img.shields.io/badge/-Java-FFAA00?style=for-the-badge&logo=java&logoColor=FFF)
+![JSON](https://img.shields.io/badge/-JSON-525252?style=for-the-badge&logo=json&logoColor=FFF)<br>
 ![HTML5](https://img.shields.io/badge/-HTML5-F06429?style=for-the-badge&logo=html5&logoColor=FFF)
 ![CSS3](https://img.shields.io/badge/-CSS3-29A9DF?style=for-the-badge&logo=css3&logoColor=FFF)
 ![JavaScript](https://img.shields.io/badge/-JS-F7E018?style=for-the-badge&logo=javascript&logoColor=FFF)
-![JSON](https://img.shields.io/badge/-JSON-525252?style=for-the-badge&logo=json&logoColor=FFF)
 
 
 ### Programms
