@@ -2,7 +2,7 @@
 	
 [![Paulchen5's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulchen5&count_private=true&show_icons=true&title_color=ffffff&bg_color=135,00B8F1,1B67BF&icon_color=22ffff&text_color=ffffff&border_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Paulchen5's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulchen5&layout=compact&langs_count=5&title_color=ffffff&bg_color=135,00B8F1,1B67BF&border_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Paulchen5's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulchen5&layout=compact&langs_count=5&title_color=ffffff&bg_color=135,00B8F1,1B67BF&border_color=0d1117&text_color=FFF&icon_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
